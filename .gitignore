@@ -1,4 +1,8 @@
 #Different IDEs
-.vscode/
-.idea/
-.nova/
+    .vscode/
+    .idea/
+    .nova/
+
+    .vscode
+    .idea
+    .nova
