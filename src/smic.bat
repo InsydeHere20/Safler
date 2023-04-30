@@ -9,6 +9,6 @@ for i in i {
     choice "$choice"
     if $choice = 1 do {
         powershell
-        iex "github.com/Niosem/Safler/IntContr-Opr/icaddscript.ps1"
+        iex "github.com/Niosem/Safler/InteractionControl/icaddscript.bat"
     }
 }
